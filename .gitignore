@@ -1,0 +1,5 @@
+.DS_Store
+*floyd*
+.ipynb_checkpoints
+__pycache__
+checkpoints
